@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\useraccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\useraccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\recoveryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\recoveryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\clinicregistryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\clinicregistryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\clinicregistryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\clinicregistryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|c:\\users\\owhie lumbang\\desktop\\petcaresystem - copy\\petcaresystem\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\recoveryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\recoveryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\petcaresystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B116BE57-2F33-F250-F337-0E8AEC971A6C}|PetCareSystem\\PetCareSystem.csproj|solutionrelative:petcaresystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\AccountForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\AccountForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\AccountForm.cs",
+              "RelativeToolTip": "PetCareSystem\\AccountForm.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAwwDEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:11:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\AccountForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\AccountForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\AccountForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\AccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:11:46.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:32:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\DashboardForm.cs",
+              "RelativeToolTip": "PetCareSystem\\DashboardForm.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv78AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:42:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecoveryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\RecoveryForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\RecoveryForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\RecoveryForm.cs",
+              "RelativeToolTip": "PetCareSystem\\RecoveryForm.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:40:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\UserAccountManager.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\UserAccountManager.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\UserAccountManager.cs",
+              "RelativeToolTip": "PetCareSystem\\UserAccountManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:25:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\DbConnector.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\DbConnector.cs",
+              "RelativeToolTip": "PetCareSystem\\DbConnector.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:24:47.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\LoginForm.cs",
+              "RelativeToolTip": "PetCareSystem\\LoginForm.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:39:52.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\ReportsForm.cs",
+              "RelativeToolTip": "PetCareSystem\\ReportsForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:43:06.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClinicRegistryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\ClinicRegistryForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\ClinicRegistryForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\ClinicRegistryForm.cs",
+              "RelativeToolTip": "PetCareSystem\\ClinicRegistryForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwCIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:37:16.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\AboutForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\AboutForm.cs",
+              "RelativeToolTip": "PetCareSystem\\AboutForm.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:43:17.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClinicRegistryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\ClinicRegistryForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\ClinicRegistryForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\ClinicRegistryForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\ClinicRegistryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:37:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\CustomMessageBox.cs",
+              "RelativeToolTip": "PetCareSystem\\CustomMessageBox.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:56:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomMessageBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\CustomMessageBox.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\CustomMessageBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:55:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:38:24.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:38:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecoveryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\RecoveryForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\RecoveryForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\RecoveryForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\RecoveryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:37:34.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\AboutForm.cs",
+              "RelativeDocumentMoniker": "PetCareSystem\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem\\PetCareSystem\\AboutForm.cs [Design]",
+              "RelativeToolTip": "..\\PetCareSystem\\PetCareSystem\\AboutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:38:37.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
