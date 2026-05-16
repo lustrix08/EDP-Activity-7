@@ -534,11 +534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\PetCareSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\PetCareSystem.csproj",
       "projectName": "PetCareSystem",
-      "projectPath": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\PetCareSystem.csproj",
+      "projectPath": "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\PetCareSystem.csproj",
       "packagesPath": "C:\\Users\\Owhie Lumbang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\obj\\",
+      "outputPath": "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Owhie Lumbang\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\PetCareSystem.csproj": {}
+    "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\PetCareSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\PetCareSystem.csproj": {
+    "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\PetCareSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\PetCareSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\PetCareSystem.csproj",
         "projectName": "PetCareSystem",
-        "projectPath": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\PetCareSystem.csproj",
+        "projectPath": "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\PetCareSystem.csproj",
         "packagesPath": "C:\\Users\\Owhie Lumbang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owhie Lumbang\\Desktop\\PetCareSystem - Copy\\PetCareSystem\\obj\\",
+        "outputPath": "C:\\Users\\Owhie Lumbang\\EDP-Activity-7\\PetCareSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owhie Lumbang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -25,8 +25,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0-windows": {
-            "framework": "net10.0-windows7.0",
+          "net10.0-windows7.0": {
             "targetAlias": "net10.0-windows",
             "projectReferences": {}
           }
@@ -44,8 +43,7 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net10.0-windows": {
-          "framework": "net10.0-windows7.0",
+        "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "dependencies": {
             "ClosedXML": {
